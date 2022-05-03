@@ -1,5 +1,6 @@
 package gslbgolint
 
-func init() {
+// Init ...
+func Init() {
 	// do nothing
 }
